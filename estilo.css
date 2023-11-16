@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+/* header => */
+
+    #cabeçalho {
+        background-color: rgb(33, 33, 107);
+        color: white;
+        padding-bottom: 10px;
+    }
+
+    #cabeçalho > nav > a {
+        color: white;
+        text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.766);
+        text-decoration: none;
+        padding: 20px;
+        font-size: 2em;
+    }
+
+
+    h1 {
+        font-size: 3em;
+        padding: 50px;
+    }
+
+/* <=header */
