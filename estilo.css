@@ -28,4 +28,24 @@
         padding: 50px;
     }
 
-/* <=header */
+/* main => */
+
+body {
+    background-color: rgba(100, 72, 21, 0.797);
+}
+
+#principal {
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+}
+
+.container {
+    border: 2px solid black;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+
+/* <= main */
